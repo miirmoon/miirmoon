@@ -20,8 +20,8 @@
 ## Github Stats
 
 <a href="https://github.com/miirmoon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miirmoon&theme=buefy"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miirmoon&layout=compact&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=miirmoon&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=miirmoon&layout=compact&theme=buefy"/>
 </a>
 
 
