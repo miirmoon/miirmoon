@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 
-[![miirmoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miirmoon)]
+![miirmoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miirmoon)
 
 
