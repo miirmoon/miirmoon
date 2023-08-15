@@ -17,14 +17,7 @@
   <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 
-## Github Stats
-
-<a href="https://github.com/miirmoon">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=miirmoon&theme=buefy"/>
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=miirmoon&layout=compact&theme=buefy"/>
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiirmoon&count_bg=%238F3DC8&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
